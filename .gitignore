@@ -1,0 +1,9 @@
+# ละเว้นไฟล์คอมไพล์ (.exe สำหรับ Windows, .out สำหรับ macOS/Linux)
+*.exe
+*.out
+*.o
+*.obj
+
+# ละเว้นไฟล์ชั่วคราวจาก VS Code Extension (Code )
+tempCodeRunnerFile.c
+tempCodeRunnerFile
